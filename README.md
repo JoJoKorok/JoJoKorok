@@ -1,4 +1,4 @@
-# Hi, I'm Joseph 👋
+# Hi, I'm Joseph
 
 I'm a Computer Science student at George Mason University with a strong interest in software engineering, desktop applications, and building practical tools.
 
