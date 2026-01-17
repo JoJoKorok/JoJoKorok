@@ -9,7 +9,7 @@ I'm a Computer Science student at George Mason University with a strong interest
 - Actively building personal projects and preparing for software engineering internships
 
 ## Technical Skills
-- **Languages:** Java, Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Java, Python, C/C++, JavaScript, HTML, CSS, SQL
 - **Tools & Technologies:** Git & GitHub, Linux, WSL, SQLite, Tkinter, Electron, VS Code, Neovim
 - **Other Tools:** VirtualBox, Wireshark, Unity, GIMP, Microsoft Office
 - **Languages Spoken:** English, Amharic
