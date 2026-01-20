@@ -3,7 +3,7 @@
 I'm a Computer Science student at George Mason University with a strong interest in software engineering, desktop applications, and building practical tools.
 
 ## About Me
-- B.S. in Computer Science candidate at George Mason University (expected December 2027)
+- B.S. in Computer Science student at George Mason University (expected December 2027)
 - Associate of Science from Northern Virginia Community College
 - Based in Alexandria, Virginia
 - Actively building personal projects and preparing for software engineering internships
@@ -15,17 +15,17 @@ I'm a Computer Science student at George Mason University with a strong interest
 - **Languages Spoken:** English, Amharic
 
 ## Projects
-### Media Selector (Personal Project)
+### Media Selector
 A desktop application for managing and randomly selecting media from large libraries.
-- Replaced static configurations with an SQLite database for scalable and efficient lookups
-- Built a custom GUI using Tkinter for improved usability
-- Designed with modular structure and maintainability in mind
+- Replaced static configurations with an SQLite database for scalable and efficient lookups.
+- Built a custom GUI using Tkinter for improved usability.
+- Designed with modular structure and maintainability in mind.
 
 ### Weather Application
 A Python application that retrieves and displays real-time weather data using external APIs.
-- Accepts U.S. ZIP codes and resolves location information
-- Processes current and forecast weather data from a third-party API
-- Built with a modular architecture to support testing and future feature expansion
+- Accepts city + country or ZIP/postal codes and resolves countries using ISO 3166 standards.
+- Supports English/Japanese runtime output, including Japanese-mapped weather descriptions.
+- Includes request history + search stored locally, plus rate limiting and test coverage for core flows.
 
 ## Experience
 - **Barista — Starbucks**  
