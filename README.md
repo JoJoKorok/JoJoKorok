@@ -27,13 +27,6 @@ A Python application that retrieves and displays real-time weather data using ex
 - Supports English/Japanese runtime output, including Japanese-mapped weather descriptions.
 - Includes request history + search stored locally, plus rate limiting and test coverage for core flows.
 
-## Experience
-- **Barista — Starbucks**  
-  Developed strong communication, multitasking, and reliability skills in a high-volume environment.
-
-- **Nursing Assistant Student — Woodbine Rehabilitation & Healthcare Center**  
-  Worked under strict safety and procedural requirements while assisting patient care.
-
 ## Interests
 - Software engineering and application development
 - Desktop tools, APIs, and automation
