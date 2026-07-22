@@ -15,6 +15,12 @@ I'm a Computer Science student at George Mason University with a strong interest
 - **Languages Spoken:** English, Amharic
 
 ## Projects
+### NourishRx
+A native Android health organizer that combines medication scheduling with nutrition tracking.
+- Built shared profiles, medication reminders, dose logging, food tracking, water intake, and weight tracking.
+- Used Java, Android framework views, SQLite, AlarmManager, and notification channels for local-first app behavior.
+- Added optional OpenFoodFacts lookup with inspect-before-save imports and a public GitHub Release APK.
+
 ### Media Selector
 A desktop application for managing and randomly selecting media from large libraries.
 - Replaced static configurations with an SQLite database for scalable and efficient lookups.
