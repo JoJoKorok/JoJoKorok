@@ -33,6 +33,12 @@ A Python application that retrieves and displays real-time weather data using ex
 - Supports English/Japanese runtime output, including Japanese-mapped weather descriptions.
 - Includes request history + search stored locally, plus rate limiting and test coverage for core flows.
 
+### OwnTracks Viewer
+A dependency-free OwnTracks MQTT logger and private web dashboard for self-hosted location sharing.
+- Built a Python standard-library MQTT/TLS logger for OwnTracks location topics.
+- Added a password-protected dashboard for latest locations, searchable history, and interactive OpenStreetMap route views.
+- Prepared Render and Oracle Linux systemd deployment templates with environment-based secret configuration.
+
 ## Interests
 - Software engineering and application development
 - Desktop tools, APIs, and automation
