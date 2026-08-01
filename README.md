@@ -10,7 +10,7 @@
 
   <img src="https://img.shields.io/badge/George_Mason_University-006633?style=for-the-badge&logo=academia&logoColor=white" alt="George Mason University" />
   <img src="https://img.shields.io/badge/Computer_Science-5B5FEF?style=for-the-badge" alt="Computer Science" />
-  <img src="https://img.shields.io/badge/Alexandria%2C_VA-0B1020?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Alexandria, Virginia" />
+  <img src="https://img.shields.io/badge/Northern_Virginia-0B1020?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Northern Virginia" />
   <img src="https://img.shields.io/badge/Open_to_Internships-22D3EE?style=for-the-badge&logoColor=0B1020" alt="Open to internships" />
 
 </div>
@@ -22,8 +22,7 @@
 ```java
 public class Joseph {
     String education = "B.S. Computer Science @ George Mason University";
-    String graduation = "December 2027";
-    String location = "Alexandria, Virginia";
+    String location = "Northern Virginia";
 
     String[] interests = {
         "Software Engineering",
@@ -45,9 +44,8 @@ public class Joseph {
 | | |
 |:---:|---|
 | 🎓 | **Computer Science** student at **George Mason University** |
-| 📅 | Expected graduation: **December 2027** |
 | 🏫 | **A.S.** from Northern Virginia Community College |
-| 📍 | Based in **Alexandria, Virginia** |
+| 📍 | Based in **Northern Virginia** |
 | 📱 | Building native **Android** applications in Java |
 | 🖥️ | Creating practical **desktop tools** with Python |
 | 🌐 | Working with **APIs, automation, and self-hosted tools** |
@@ -199,8 +197,6 @@ Lightweight personal media launcher for searching, browsing, and selecting local
 
 ![GMU](https://img.shields.io/badge/George_Mason-006633?style=for-the-badge)
 
-**Expected Dec 2027**
-
 </td>
 <td>
 
@@ -233,11 +229,6 @@ Lightweight personal media launcher for searching, browsing, and selecting local
 ## 📊 GitHub Activity
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoJoKorok&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=5B5FEF&text_color=E6EDF7&rank_icon=github" alt="Joseph's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJoKorok&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E6EDF7" alt="Joseph's most-used languages" />
-
-  <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoJoKorok&custom_title=Joseph's%20Contribution%20Graph&hide_border=true&bg_color=0B1020&color=22D3EE&line=5B5FEF&point=FFFFFF&area_color=5B5FEF&area=true" alt="Joseph's contribution graph" />
 
