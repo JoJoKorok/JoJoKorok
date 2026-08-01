@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/George_Mason_University-006633?style=for-the-badge&logo=academia&logoColor=white" alt="George Mason University" />
   <img src="https://img.shields.io/badge/Computer_Science-5B5FEF?style=for-the-badge" alt="Computer Science" />
   <img src="https://img.shields.io/badge/Northern_Virginia-0B1020?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Northern Virginia" />
-  <img src="https://img.shields.io/badge/Open_to_Internships-22D3EE?style=for-the-badge&logoColor=0B1020" alt="Open to internships" />
 
 </div>
 
@@ -59,7 +58,6 @@ public class Joseph {
 - Shipping polished personal projects
 - Strengthening software architecture skills
 - Building local-first applications
-- Preparing for software engineering internships
 - Learning how production systems are maintained
 
 ### 🔭 Exploring
