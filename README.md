@@ -228,10 +228,6 @@ Lightweight personal media launcher for searching, browsing, and selecting local
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoJoKorok&custom_title=Joseph's%20Contribution%20Graph&hide_border=true&bg_color=0B1020&color=22D3EE&line=5B5FEF&point=FFFFFF&area_color=5B5FEF&area=true" alt="Joseph's contribution graph" />
-
-  <br />
-
   <img src="https://streak-stats.demolab.com?user=JoJoKorok&theme=transparent&hide_border=true&background=0B1020&ring=5B5FEF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E6EDF7&dates=8B949E" alt="Joseph's GitHub streak" />
 
 </div>
