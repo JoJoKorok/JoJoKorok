@@ -238,6 +238,9 @@ Lightweight personal media launcher for searching, browsing, and selecting local
 
 <div align="center">
 
+  <a href="https://jojokorok.github.io">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="Visit Joseph's portfolio website" />
+  </a>
   <a href="https://github.com/JoJoKorok">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="Follow Joseph on GitHub" />
   </a>
